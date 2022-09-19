@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dcGOR"]
+	path = dcGOR
+	url = https://github.com/hfang-bristol/dcgor
+	shallow = true
+	registered = true
+[submodule "dnet"]
+	path = dnet
+	url = https://github.com/hfang-bristol/dnet
+	shallow = true
+	registered = true

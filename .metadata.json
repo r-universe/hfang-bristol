@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "dcGOR",
+    "oncran": true
+  },
+  {
+    "package": "dnet",
+    "oncran": true
+  }
+]
