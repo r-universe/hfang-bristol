@@ -1,10 +1,10 @@
 [
   {
-    "package": "dcGOR",
+    "package": "dnet",
     "oncran": true
   },
   {
-    "package": "dnet",
+    "package": "dcGOR",
     "oncran": true
   }
 ]
